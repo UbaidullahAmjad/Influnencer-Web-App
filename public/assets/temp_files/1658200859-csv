@@ -1,0 +1,1121 @@
+campaign_name,code,aov,orders,revenue
+Noon Egypt,HADEER88,500-999,17,71
+Noon Egypt,ENGY1,500-999,15,63
+Noon Egypt,MO,500-999,12,50.4
+Noon Egypt,HADEER88,200-299,32,38.4
+Noon Egypt,ESRA80,500-999,9,37.8
+Noon Egypt,ENGY1,>=1000,7,35
+Noon Egypt,CAN21,>=1000,7,35
+Noon Egypt,HADEER88,300-399,17,34
+Noon Egypt,HH6,500-999,8,34
+Noon Egypt,DINA50,500-999,8,34
+Noon Egypt,CAN50,>=1000,6,30
+Noon Egypt,ENGY1,300-399,15,30
+Noon Egypt,ESRA80,>=1000,6,30
+Noon Egypt,MO,>=1000,6,30
+Noon Egypt,ENGY1,400-499,10,30
+Noon Egypt,TG96,500-999,7,29
+Noon Egypt,HADEER88,400-499,9,27
+Noon Egypt,ESRA80,200-299,22,26
+Noon Egypt,HADEER85,300-399,13,26
+Noon Egypt,HH1,500-999,6,25
+Noon Egypt,ENGY2,500-999,6,25
+Noon Egypt,YARA88,500-999,6,25
+Noon Egypt,JOLIE80,500-999,6,25
+Noon Egypt,ESRA82,500-999,6,25
+Noon Egypt,ESRA10,>=1000,5,25
+Noon Egypt,HH1,>=1000,5,25
+Noon Egypt,ENGY1,200-299,20,24
+Noon Egypt,ESRA80,300-399,12,24
+Noon Egypt,HH8,500-999,5,21
+Noon Egypt,MAI50,500-999,5,21
+Noon Egypt,JOLIE88,500-999,5,21
+Noon Egypt,CODY88,500-999,5,21
+Noon Egypt,SALMA,500-999,5,21
+Noon Egypt,HH8,400-499,7,21
+Noon Egypt,HADEER87,300-399,10,20
+Noon Egypt,HH8,>=1000,4,20
+Noon Egypt,CODY88,>=1000,4,20
+Noon Egypt,ESRA81,>=1000,4,20
+Noon Egypt,TG96,200-299,16,19
+Noon Egypt,TG97,200-299,15,18
+Noon Egypt,HADEER83,400-499,6,18
+Noon Egypt,HADEER82,400-499,6,18
+Noon Egypt,YARA80,500-999,4,17
+Noon Egypt,HOOR80,500-999,4,17
+Noon Egypt,TG96,100-199,24,17
+Noon Egypt,DINA80,500-999,4,17
+Noon Egypt,GO66,500-999,4,17
+Noon Egypt,GG5,500-999,4,17
+Noon Egypt,HADEER88,100-199,23,16
+Noon Egypt,HAJAR80,300-399,8,16
+Noon Egypt,TG96,300-399,8,16
+Noon Egypt,CODY81,>=1000,3,15
+Noon Egypt,BERO1,>=1000,3,15
+Noon Egypt,ESRA85,>=1000,3,15
+Noon Egypt,TG97,>=1000,3,15
+Noon Egypt,SAVER24,>=1000,3,15
+Noon Egypt,TG96,>=1000,3,15
+Noon Egypt,HH7,>=1000,3,15
+Noon Egypt,ENGY3,>=1000,3,15
+Noon Egypt,CODY20,>=1000,3,15
+Noon Egypt,CODY11,>=1000,3,15
+Noon Egypt,CAN22,>=1000,3,15
+Noon Egypt,HADEER87,400-499,5,15
+Noon Egypt,HOOR80,>=1000,3,15
+Noon Egypt,HAJAR80,400-499,5,15
+Noon Egypt,HADEER88,>=1000,3,15
+Noon Egypt,GG5,200-299,12,14
+Noon Egypt,HADEER82,200-299,12,14
+Noon Egypt,ESRA10,200-299,12,14
+Noon Egypt,ENGY2,300-399,7,14
+Noon Egypt,ENGY1,100-199,19,13
+Noon Egypt,ENGY2,200-299,11,13
+Noon Egypt,GO90,500-999,3,13
+Noon Egypt,ENGY5,500-999,3,13
+Noon Egypt,HH8,100-199,18,13
+Noon Egypt,JOLIE86,500-999,3,13
+Noon Egypt,HADEER86,500-999,3,13
+Noon Egypt,ESRA10,500-999,3,13
+Noon Egypt,SAVER19,500-999,3,13
+Noon Egypt,CASH37,500-999,3,13
+Noon Egypt,CASH38,500-999,3,13
+Noon Egypt,CASH44,500-999,3,13
+Noon Egypt,BERO1,500-999,3,13
+Noon Egypt,WAFAR30,500-999,3,13
+Noon Egypt,TG43,500-999,3,13
+Noon Egypt,WAFAR16,500-999,3,13
+Noon Egypt,SAV41,500-999,3,13
+Noon Egypt,HADEER85,500-999,3,13
+Noon Egypt,ESRA80,100-199,18,13
+Noon Egypt,TG44,500-999,3,13
+Noon Egypt,ENGY9,500-999,3,13
+Noon Egypt,HADEER87,500-999,3,13
+Noon Egypt,SAVER22,500-999,3,13
+Noon Egypt,AMIRA80,500-999,3,13
+Noon Egypt,AMIRA88,500-999,3,13
+Noon Egypt,HADEER85,400-499,4,12
+Noon Egypt,ESRA81,400-499,4,12
+Noon Egypt,MO,300-399,6,12
+Noon Egypt,CODY88,400-499,4,12
+Noon Egypt,HH8,200-299,10,12
+Noon Egypt,HADEER86,200-299,10,12
+Noon Egypt,ENGY5,300-399,6,12
+Noon Egypt,GG5,300-399,6,12
+Noon Egypt,JOLIE80,400-499,4,12
+Noon Egypt,BERO1,300-399,6,12
+Noon Egypt,TG96,400-499,4,12
+Noon Egypt,HADEER86,300-399,6,12
+Noon Egypt,HOOR80,200-299,9,11
+Noon Egypt,YARA88,200-299,9,11
+Noon Egypt,MO,200-299,9,11
+Noon Egypt,HADEER82,100-199,15,11
+Noon Egypt,TAWFER84,300-399,5,10
+Noon Egypt,GG1,>=1000,2,10
+Noon Egypt,HAJAR80,>=1000,2,10
+Noon Egypt,HH8,300-399,5,10
+Noon Egypt,CAN28,>=1000,2,10
+Noon Egypt,BOSS50,>=1000,2,10
+Noon Egypt,RANEEM,>=1000,2,10
+Noon Egypt,GG5,>=1000,2,10
+Noon Egypt,TG36,>=1000,2,10
+Noon Egypt,YARA83,>=1000,2,10
+Noon Egypt,HADEER82,300-399,5,10
+Noon Egypt,CODY87,>=1000,2,10
+Noon Egypt,GO95,>=1000,2,10
+Noon Egypt,MAI50,>=1000,2,10
+Noon Egypt,CODY2,>=1000,2,10
+Noon Egypt,CODY17,>=1000,2,10
+Noon Egypt,TG97,300-399,5,10
+Noon Egypt,TG30,>=1000,2,10
+Noon Egypt,CODY88,300-399,5,10
+Noon Egypt,TG20,>=1000,2,10
+Noon Egypt,YARA80,300-399,5,10
+Noon Egypt,ATEF,>=1000,2,10
+Noon Egypt,FRI44,>=1000,2,10
+Noon Egypt,CODY18,>=1000,2,10
+Noon Egypt,TG97,100-199,14,10
+Noon Egypt,SAVER19,200-299,8,10
+Noon Egypt,TAWFER30,200-299,8,10
+Noon Egypt,TAWFER84,200-299,8,10
+Noon Egypt,ENGY4,400-499,3,9
+Noon Egypt,LOCA50,400-499,3,9
+Noon Egypt,SALMA,400-499,3,9
+Noon Egypt,ESRA10,400-499,3,9
+Noon Egypt,ESRA86,400-499,3,9
+Noon Egypt,MO,400-499,3,9
+Noon Egypt,LIKE40,400-499,3,9
+Noon Egypt,MAI50,400-499,3,9
+Noon Egypt,BERO1,200-299,7,8
+Noon Egypt,HADEER85,200-299,7,8
+Noon Egypt,TG24,500-999,2,8
+Noon Egypt,TAWFER59,500-999,2,8
+Noon Egypt,GO65,500-999,2,8
+Noon Egypt,GO93,500-999,2,8
+Noon Egypt,CAN23,500-999,2,8
+Noon Egypt,TG43,200-299,7,8
+Noon Egypt,FATMA80,500-999,2,8
+Noon Egypt,JOLIE85,500-999,2,8
+Noon Egypt,TG35,500-999,2,8
+Noon Egypt,TG27,500-999,2,8
+Noon Egypt,HOOR85,500-999,2,8
+Noon Egypt,HAJAR80,500-999,2,8
+Noon Egypt,BOSS50,500-999,2,8
+Noon Egypt,HH4,500-999,2,8
+Noon Egypt,CAN24,200-299,7,8
+Noon Egypt,ENGY3,200-299,7,8
+Noon Egypt,HH2,500-999,2,8
+Noon Egypt,TG100,500-999,2,8
+Noon Egypt,HOOR88,500-999,2,8
+Noon Egypt,JOLIE81,500-999,2,8
+Noon Egypt,HOOR82,500-999,2,8
+Noon Egypt,ATEF,500-999,2,8
+Noon Egypt,BATOOTA50,500-999,2,8
+Noon Egypt,GG1,500-999,2,8
+Noon Egypt,TG36,500-999,2,8
+Noon Egypt,TG10,500-999,2,8
+Noon Egypt,HADEER82,500-999,2,8
+Noon Egypt,CODY88,200-299,7,8
+Noon Egypt,ESRA86,500-999,2,8
+Noon Egypt,YASMEEN50,500-999,2,8
+Noon Egypt,ESRA88,500-999,2,8
+Noon Egypt,HADEER87,200-299,7,8
+Noon Egypt,CODY86,500-999,2,8
+Noon Egypt,TG34,500-999,2,8
+Noon Egypt,HH10,500-999,2,8
+Noon Egypt,TAWFER25,500-999,2,8
+Noon Egypt,TG46,500-999,2,8
+Noon Egypt,HH6,300-399,4,8
+Noon Egypt,ENGY6,300-399,4,8
+Noon Egypt,HADEER83,300-399,4,8
+Noon Egypt,CAN24,300-399,4,8
+Noon Egypt,ESRA10,300-399,4,8
+Noon Egypt,MO,100-199,11,8
+Noon Egypt,HADEER87,100-199,11,8
+Noon Egypt,HH6,200-299,6,7
+Noon Egypt,YASMEEN50,200-299,6,7
+Noon Egypt,TG30,200-299,6,7
+Noon Egypt,HADEER85,100-199,10,7
+Noon Egypt,ENGY3,100-199,9,6
+Noon Egypt,TG44,100-199,9,6
+Noon Egypt,YARA88,100-199,9,6
+Noon Egypt,GO66,400-499,2,6
+Noon Egypt,ENGY5,400-499,2,6
+Noon Egypt,HH1,200-299,5,6
+Noon Egypt,TG43,400-499,2,6
+Noon Egypt,SALMA,300-399,3,6
+Noon Egypt,CASH38,400-499,2,6
+Noon Egypt,SAV40,400-499,2,6
+Noon Egypt,HAJAR88,300-399,3,6
+Noon Egypt,ENGY2,400-499,2,6
+Noon Egypt,YARA88,400-499,2,6
+Noon Egypt,TAWFER40,400-499,2,6
+Noon Egypt,ENGY9,300-399,3,6
+Noon Egypt,TG20,300-399,3,6
+Noon Egypt,DINA50,400-499,2,6
+Noon Egypt,ATEF,200-299,5,6
+Noon Egypt,JOLIE82,400-499,2,6
+Noon Egypt,ENGY7,400-499,2,6
+Noon Egypt,ESRA84,200-299,5,6
+Noon Egypt,JOLIE81,300-399,3,6
+Noon Egypt,TG20,400-499,2,6
+Noon Egypt,HH1,300-399,3,6
+Noon Egypt,SALMA,200-299,5,6
+Noon Egypt,HADEER86,400-499,2,6
+Noon Egypt,HOOR88,400-499,2,6
+Noon Egypt,TG97,400-499,2,6
+Noon Egypt,FAV56,400-499,2,6
+Noon Egypt,WAF8,400-499,2,6
+Noon Egypt,HH2,300-399,3,6
+Noon Egypt,CAN28,400-499,2,6
+Noon Egypt,TG73,300-399,3,6
+Noon Egypt,ATEF,400-499,2,6
+Noon Egypt,HOOR81,300-399,3,6
+Noon Egypt,ESRA82,400-499,2,6
+Noon Egypt,DINA50,300-399,3,6
+Noon Egypt,HOOR81,400-499,2,6
+Noon Egypt,ESRA80,400-499,2,6
+Noon Egypt,JOLIE86,300-399,3,6
+Noon Egypt,PLUS88,400-499,2,6
+Noon Egypt,JOLIE84,400-499,2,6
+Noon Egypt,DINA80,300-399,3,6
+Noon Egypt,BERO1,400-499,2,6
+Noon Egypt,SAVER11,300-399,3,6
+Noon Egypt,YARA80,400-499,2,6
+Noon Egypt,TG35,200-299,5,6
+Noon Egypt,SAVER24,300-399,3,6
+Noon Egypt,JOLIE80,300-399,3,6
+Noon Egypt,BERO2,300-399,3,6
+Noon Egypt,JOLIE88,400-499,2,6
+Noon Egypt,SAVER24,400-499,2,6
+Noon Egypt,YARA88,300-399,3,6
+Noon Egypt,CODY86,300-399,3,6
+Noon Egypt,MAI50,100-199,8,6
+Noon Egypt,TG30,100-199,8,6
+Noon Egypt,HH1,100-199,8,6
+Noon Egypt,CODY88,100-199,8,6
+Noon Egypt,ESRA10,100-199,8,6
+Noon Egypt,HADEER86,100-199,8,6
+Noon Egypt,GG6,>=1000,1,5
+Noon Egypt,TG18,>=1000,1,$5.00
+Noon Egypt,CODY21,>=1000,1,5
+Noon Egypt,ESRA82,>=1000,1,5
+Noon Egypt,PLUS86,>=1000,1,5
+Noon Egypt,YARA84,>=1000,1,5
+Noon Egypt,CODY22,>=1000,1,5
+Noon Egypt,TG35,>=1000,1,5
+Noon Egypt,TG22,>=1000,1,5
+Noon Egypt,TG34,>=1000,1,5
+Noon Egypt,HOOR81,>=1000,1,5
+Noon Egypt,FATMA50,>=1000,1,5
+Noon Egypt,GO94,>=1000,1,5
+Noon Egypt,TAWFER39,>=1000,1,5
+Noon Egypt,TAWFER54,>=1000,1,5
+Noon Egypt,TG41,>=1000,1,5
+Noon Egypt,TG16,>=1000,1,5
+Noon Egypt,SAVER19,>=1000,1,5
+Noon Egypt,CAN24,>=1000,1,5
+Noon Egypt,HADEER81,>=1000,1,5
+Noon Egypt,CAN32,>=1000,1,5
+Noon Egypt,HH5,>=1000,1,5
+Noon Egypt,HH2,>=1000,1,5
+Noon Egypt,CODY1,>=1000,1,5
+Noon Egypt,WAF10,>=1000,1,5
+Noon Egypt,TAWFER64,>=1000,1,5
+Noon Egypt,HADEER84,>=1000,1,5
+Noon Egypt,TAWFER61,>=1000,1,5
+Noon Egypt,WAF2,>=1000,1,5
+Noon Egypt,YARA81,>=1000,1,5
+Noon Egypt,HH10,>=1000,1,5
+Noon Egypt,SAVER13,>=1000,1,5
+Noon Egypt,JOLIE84,>=1000,1,5
+Noon Egypt,GO65,>=1000,1,5
+Noon Egypt,TAWFER88,>=1000,1,5
+Noon Egypt,CASH38,>=1000,1,5
+Noon Egypt,CAN49,>=1000,1,5
+Noon Egypt,SAV42,>=1000,1,5
+Noon Egypt,LOCA80,>=1000,1,5
+Noon Egypt,WAF9,>=1000,1,5
+Noon Egypt,ENGY9,>=1000,1,5
+Noon Egypt,GG10,>=1000,1,5
+Noon Egypt,TG46,>=1000,1,5
+Noon Egypt,CODY14,>=1000,1,5
+Noon Egypt,TAWFER63,>=1000,1,5
+Noon Egypt,TAWFER94,>=1000,1,5
+Noon Egypt,TG4,>=1000,1,5
+Noon Egypt,TG79,>=1000,1,5
+Noon Egypt,TG6,>=1000,1,5
+Noon Egypt,SAV37,>=1000,1,5
+Noon Egypt,ESRA84,>=1000,1,5
+Noon Egypt,HOOR82,>=1000,1,5
+Noon Egypt,ENGY2,>=1000,1,5
+Noon Egypt,CODY3,>=1000,1,5
+Noon Egypt,HOOR88,>=1000,1,5
+Noon Egypt,AMIRA80,>=1000,1,5
+Noon Egypt,DINA50,>=1000,1,5
+Noon Egypt,JOLIE88,>=1000,1,5
+Noon Egypt,CASH31,>=1000,1,5
+Noon Egypt,CODY84,>=1000,1,5
+Noon Egypt,GG8,>=1000,1,5
+Noon Egypt,JOLIE83,>=1000,1,5
+Noon Egypt,ENGY4,>=1000,1,5
+Noon Egypt,HH3,>=1000,1,5
+Noon Egypt,GO67,>=1000,1,5
+Noon Egypt,TG21,>=1000,1,5
+Noon Egypt,JOLIE80,>=1000,1,5
+Noon Egypt,HADEER87,>=1000,1,5
+Noon Egypt,CASH40,>=1000,1,5
+Noon Egypt,NADIA1,>=1000,1,5
+Noon Egypt,DINA85,>=1000,1,5
+Noon Egypt,DINA87,>=1000,1,5
+Noon Egypt,DINA80,100-199,7,5
+Noon Egypt,DINA50,100-199,7,5
+Noon Egypt,ENGY2,100-199,7,5
+Noon Egypt,TG20,100-199,7,5
+Noon Egypt,JOLIE85,200-299,4,5
+Noon Egypt,JOLIE80,200-299,4,5
+Noon Egypt,LOCA50,200-299,4,5
+Noon Egypt,SAV42,200-299,4,5
+Noon Egypt,DINA50,200-299,4,5
+Noon Egypt,ESRA82,200-299,4,5
+Noon Egypt,JOLIE82,200-299,4,5
+Noon Egypt,BERO2,200-299,4,5
+Noon Egypt,ENGY4,200-299,4,5
+Noon Egypt,CODY18,200-299,4,5
+Noon Egypt,TG20,200-299,4,5
+Noon Egypt,ENGY7,200-299,4,5
+Noon Egypt,HADEER84,200-299,4,5
+Noon Egypt,CASH36,200-299,4,5
+Noon Egypt,HH2,200-299,4,5
+Noon Egypt,FAV56,200-299,4,5
+Noon Egypt,ENGY9,200-299,4,5
+Noon Egypt,WAFAR30,200-299,4,5
+Noon Egypt,TG23,200-299,4,5
+Noon Egypt,HH7,200-299,4,5
+Noon Egypt,MAI50,200-299,4,5
+Noon Egypt,HAJAR80,200-299,4,5
+Noon Egypt,ENGY8,500-999,1,4
+Noon Egypt,ESRA81,500-999,1,4
+Noon Egypt,CAN36,500-999,1,4
+Noon Egypt,FATMA50,500-999,1,4
+Noon Egypt,TAWFER76,500-999,1,4
+Noon Egypt,CODY18,500-999,1,4
+Noon Egypt,YARA84,500-999,1,4
+Noon Egypt,ENJOY50,500-999,1,4
+Noon Egypt,FATMA82,500-999,1,4
+Noon Egypt,FATMA87,500-999,1,4
+Noon Egypt,OMNIA50,500-999,1,4
+Noon Egypt,ENGY10,500-999,1,4
+Noon Egypt,SAVER24,500-999,1,4
+Noon Egypt,TG88,500-999,1,4
+Noon Egypt,TAWFER65,500-999,1,4
+Noon Egypt,WAFAR12,500-999,1,4
+Noon Egypt,HAJAR87,500-999,1,4
+Noon Egypt,TG13,500-999,1,4
+Noon Egypt,SAV42,500-999,1,4
+Noon Egypt,FATMA81,500-999,1,4
+Noon Egypt,TG60,500-999,1,4
+Noon Egypt,SAV28,500-999,1,4
+Noon Egypt,TG97,500-999,1,4
+Noon Egypt,HH6,100-199,6,4
+Noon Egypt,TG17,500-999,1,4
+Noon Egypt,BATOOTA88,500-999,1,4
+Noon Egypt,YARA83,500-999,1,4
+Noon Egypt,JOLIE87,500-999,1,4
+Noon Egypt,HOOR84,500-999,1,4
+Noon Egypt,TG2,500-999,1,4
+Noon Egypt,WAF8,500-999,1,4
+Noon Egypt,GO95,500-999,1,4
+Noon Egypt,HADEER80,500-999,1,4
+Noon Egypt,GO92,500-999,1,4
+Noon Egypt,SAV33,500-999,1,4
+Noon Egypt,TG9,500-999,1,4
+Noon Egypt,GO67,500-999,1,4
+Noon Egypt,SAVER19,100-199,6,4
+Noon Egypt,HH9,500-999,1,4
+Noon Egypt,WAF10,500-999,1,4
+Noon Egypt,TAWFER48,500-999,1,4
+Noon Egypt,HADER24,500-999,1,4
+Noon Egypt,GO61,500-999,1,4
+Noon Egypt,HADEER83,500-999,1,4
+Noon Egypt,SAVER14,500-999,1,4
+Noon Egypt,TG3,500-999,1,4
+Noon Egypt,WINTER58,500-999,1,4
+Noon Egypt,HAM1,500-999,1,4
+Noon Egypt,TAWFER83,500-999,1,4
+Noon Egypt,TG46,100-199,6,4
+Noon Egypt,GO91,500-999,1,4
+Noon Egypt,LIKE50,500-999,1,4
+Noon Egypt,WAFF1,500-999,1,4
+Noon Egypt,WAFAR9,500-999,1,4
+Noon Egypt,CAN46,500-999,1,4
+Noon Egypt,HAM10,500-999,1,4
+Noon Egypt,WAFAR15,500-999,1,4
+Noon Egypt,WAFAR28,500-999,1,4
+Noon Egypt,CASH36,100-199,6,4
+Noon Egypt,TG8,500-999,1,4
+Noon Egypt,CASH42,500-999,1,4
+Noon Egypt,CODY3,500-999,1,4
+Noon Egypt,TAWFER80,500-999,1,4
+Noon Egypt,SAVER25,500-999,1,4
+Noon Egypt,CODY87,500-999,1,4
+Noon Egypt,FATMA83,500-999,1,4
+Noon Egypt,GO94,500-999,1,4
+Noon Egypt,HADEER84,500-999,1,4
+Noon Egypt,TG23,500-999,1,4
+Noon Egypt,CAN27,500-999,1,4
+Noon Egypt,CAN44,500-999,1,4
+Noon Egypt,TAWFER88,500-999,1,4
+Noon Egypt,CASH32,500-999,1,4
+Noon Egypt,SAVER11,500-999,1,4
+Noon Egypt,TG30,500-999,1,4
+Noon Egypt,TG14,500-999,1,4
+Noon Egypt,SAVER20,500-999,1,4
+Noon Egypt,CAN24,500-999,1,4
+Noon Egypt,LOCA80,500-999,1,4
+Noon Egypt,YARA82,500-999,1,4
+Noon Egypt,ENGY4,500-999,1,4
+Noon Egypt,TAWFER40,500-999,1,4
+Noon Egypt,ESRA87,500-999,1,4
+Noon Egypt,ESRA85,500-999,1,4
+Noon Egypt,WAFAR25,500-999,1,4
+Noon Egypt,HAJAR81,500-999,1,4
+Noon Egypt,HAJAR86,500-999,1,4
+Noon Egypt,TG26,500-999,1,4
+Noon Egypt,TG47,500-999,1,4
+Noon Egypt,HH5,500-999,1,4
+Noon Egypt,CAN26,500-999,1,4
+Noon Egypt,TG20,500-999,1,4
+Noon Egypt,HAJAR88,500-999,1,4
+Noon Egypt,CAN33,500-999,1,4
+Noon Egypt,ENGY3,500-999,1,4
+Noon Egypt,TG11,500-999,1,4
+Noon Egypt,CODY4,500-999,1,4
+Noon Egypt,TG7,500-999,1,4
+Noon Egypt,DINA81,500-999,1,4
+Noon Egypt,TG54,500-999,1,4
+Noon Egypt,CASH39,500-999,1,4
+Noon Egypt,TG21,500-999,1,4
+Noon Egypt,SAVER12,500-999,1,4
+Noon Egypt,CAN50,500-999,1,4
+Noon Egypt,BERO2,500-999,1,4
+Noon Egypt,TG74,500-999,1,4
+Noon Egypt,TAWFER64,500-999,1,4
+Noon Egypt,HH10,300-399,2,4
+Noon Egypt,SAVER22,300-399,2,4
+Noon Egypt,HOOR80,300-399,2,4
+Noon Egypt,HOOR88,300-399,2,4
+Noon Egypt,ENJOY57,300-399,2,4
+Noon Egypt,AMIRA88,300-399,2,4
+Noon Egypt,SAVER19,300-399,2,4
+Noon Egypt,TG43,300-399,2,4
+Noon Egypt,LOCA50,300-399,2,4
+Noon Egypt,HAJAR81,300-399,2,4
+Noon Egypt,ESRA84,300-399,2,4
+Noon Egypt,HOOR82,300-399,2,4
+Noon Egypt,GO95,300-399,2,4
+Noon Egypt,HOOR83,300-399,2,4
+Noon Egypt,ENGY7,300-399,2,4
+Noon Egypt,HADEER81,300-399,2,4
+Noon Egypt,WAFAR34,300-399,2,4
+Noon Egypt,RANEEM,300-399,2,4
+Noon Egypt,ESRA82,300-399,2,4
+Noon Egypt,BOSS50,300-399,2,4
+Noon Egypt,MAI50,300-399,2,4
+Noon Egypt,HAM10,300-399,2,4
+Noon Egypt,ENJOY61,300-399,2,4
+Noon Egypt,TG30,300-399,2,4
+Noon Egypt,ESRA81,300-399,2,4
+Noon Egypt,TG44,300-399,2,4
+Noon Egypt,ENJOY54,300-399,2,4
+Noon Egypt,ENJOY59,300-399,2,4
+Noon Egypt,YARA81,300-399,2,4
+Noon Egypt,WAFAR16,300-399,2,4
+Noon Egypt,AMIRA80,200-299,3,4
+Noon Egypt,HOOR81,200-299,3,4
+Noon Egypt,GO65,200-299,3,4
+Noon Egypt,ENGY10,200-299,3,4
+Noon Egypt,NADIA1,200-299,3,4
+Noon Egypt,TG73,200-299,3,4
+Noon Egypt,HH3,200-299,3,4
+Noon Egypt,ESRA83,200-299,3,4
+Noon Egypt,HAJAR81,200-299,3,4
+Noon Egypt,SAVER24,200-299,3,4
+Noon Egypt,FATMA80,200-299,3,4
+Noon Egypt,HH5,200-299,3,4
+Noon Egypt,GO66,200-299,3,4
+Noon Egypt,WAFAR16,200-299,3,4
+Noon Egypt,YARA82,200-299,3,4
+Noon Egypt,HANAN60,200-299,3,4
+Noon Egypt,JOLIE88,200-299,3,4
+Noon Egypt,GG1,200-299,3,4
+Noon Egypt,SAVER22,200-299,3,4
+Noon Egypt,TAWFER30,100-199,5,4
+Noon Egypt,ATEF,100-199,5,4
+Noon Egypt,HADEER83,100-199,5,4
+Noon Egypt,BERO1,100-199,5,4
+Noon Egypt,SALMA,100-199,5,4
+Noon Egypt,TG43,100-199,5,4
+Noon Egypt,HOOR80,100-199,5,4
+Noon Egypt,HOOR80,400-499,1,3
+Noon Egypt,TAWFER30,400-499,1,3
+Noon Egypt,ENGY9,400-499,1,3
+Noon Egypt,GO67,400-499,1,3
+Noon Egypt,WAFAR30,400-499,1,3
+Noon Egypt,GG5,400-499,1,3
+Noon Egypt,TG51,400-499,1,3
+Noon Egypt,TG54,400-499,1,3
+Noon Egypt,ESRA87,400-499,1,3
+Noon Egypt,GO94,400-499,1,3
+Noon Egypt,CASH33,400-499,1,3
+Noon Egypt,TG7,400-499,1,3
+Noon Egypt,ENGY12,400-499,1,3
+Noon Egypt,YARA81,400-499,1,3
+Noon Egypt,WAFAR6,400-499,1,3
+Noon Egypt,WAFAR18,400-499,1,3
+Noon Egypt,CAN46,400-499,1,3
+Noon Egypt,TG34,400-499,1,3
+Noon Egypt,BATOOTA50,400-499,1,3
+Noon Egypt,LIKE54,400-499,1,3
+Noon Egypt,CAN44,400-499,1,3
+Noon Egypt,LIKE42,400-499,1,3
+Noon Egypt,GO58,400-499,1,3
+Noon Egypt,ENGY6,400-499,1,3
+Noon Egypt,TG14,400-499,1,3
+Noon Egypt,TG46,400-499,1,3
+Noon Egypt,TG99,400-499,1,3
+Noon Egypt,HH3,400-499,1,3
+Noon Egypt,FRI45,400-499,1,3
+Noon Egypt,TG16,400-499,1,3
+Noon Egypt,CAN50,400-499,1,3
+Noon Egypt,BOSS50,400-499,1,3
+Noon Egypt,FATMA84,400-499,1,3
+Noon Egypt,GG1,400-499,1,3
+Noon Egypt,SAV41,400-499,1,3
+Noon Egypt,BERO4,400-499,1,3
+Noon Egypt,DINA82,400-499,1,3
+Noon Egypt,SAV32,400-499,1,3
+Noon Egypt,TG44,400-499,1,3
+Noon Egypt,EGY94,400-499,1,3
+Noon Egypt,GG2,400-499,1,3
+Noon Egypt,CASH36,400-499,1,3
+Noon Egypt,JOLIE81,400-499,1,3
+Noon Egypt,TG9,400-499,1,3
+Noon Egypt,BATOOTA80,400-499,1,3
+Noon Egypt,TG69,400-499,1,3
+Noon Egypt,TAWFER77,400-499,1,3
+Noon Egypt,HOOR87,400-499,1,3
+Noon Egypt,WAFAR16,400-499,1,3
+Noon Egypt,TG30,400-499,1,3
+Noon Egypt,HH1,400-499,1,3
+Noon Egypt,JOLIE83,400-499,1,3
+Noon Egypt,BATOOTA28,400-499,1,3
+Noon Egypt,AMAL50,400-499,1,3
+Noon Egypt,TAWFER88,400-499,1,3
+Noon Egypt,FATMA80,400-499,1,3
+Noon Egypt,HAJAR82,400-499,1,3
+Noon Egypt,HH10,400-499,1,3
+Noon Egypt,GO95,400-499,1,3
+Noon Egypt,BERO2,400-499,1,3
+Noon Egypt,GO90,400-499,1,3
+Noon Egypt,TG6,400-499,1,3
+Noon Egypt,WINTER57,400-499,1,3
+Noon Egypt,TG35,400-499,1,3
+Noon Egypt,TAWFER84,400-499,1,3
+Noon Egypt,TAWFER50,400-499,1,3
+Noon Egypt,ENGY8,400-499,1,3
+Noon Egypt,WAF9,400-499,1,3
+Noon Egypt,TG48,400-499,1,3
+Noon Egypt,CODY11,400-499,1,3
+Noon Egypt,TG3,400-499,1,3
+Noon Egypt,HAJAR81,400-499,1,3
+Noon Egypt,SAVER19,400-499,1,3
+Noon Egypt,GG5,100-199,4,2.8
+Noon Egypt,AMIRA80,100-199,4,2.8
+Noon Egypt,HH4,100-199,4,2.8
+Noon Egypt,SAVER24,100-199,4,2.8
+Noon Egypt,HADEER84,100-199,4,2.8
+Noon Egypt,HH2,100-199,4,2.8
+Noon Egypt,ENGY10,100-199,4,2.8
+Noon Egypt,HH10,200-299,2,2.4
+Noon Egypt,CASH37,200-299,2,2.4
+Noon Egypt,HOOR88,200-299,2,2.4
+Noon Egypt,TG36,200-299,2,2.4
+Noon Egypt,JOLIE84,200-299,2,2.4
+Noon Egypt,CASH38,200-299,2,2.4
+Noon Egypt,TG89,200-299,2,2.4
+Noon Egypt,TG26,200-299,2,2.4
+Noon Egypt,ESRA81,200-299,2,2.4
+Noon Egypt,HOOR82,200-299,2,2.4
+Noon Egypt,SAVER23,200-299,2,2.4
+Noon Egypt,ESRA87,200-299,2,2.4
+Noon Egypt,TAWFER60,200-299,2,2.4
+Noon Egypt,CASH35,200-299,2,2.4
+Noon Egypt,WAFAR7,200-299,2,2.4
+Noon Egypt,EGY94,200-299,2,2.4
+Noon Egypt,HOOR83,200-299,2,2.4
+Noon Egypt,TG25,200-299,2,2.4
+Noon Egypt,CAN25,200-299,2,2.4
+Noon Egypt,TG34,200-299,2,2.4
+Noon Egypt,ENGY6,200-299,2,2.4
+Noon Egypt,WAF8,200-299,2,2.4
+Noon Egypt,HAM10,200-299,2,2.4
+Noon Egypt,FATMA88,200-299,2,2.4
+Noon Egypt,ESRA86,200-299,2,2.4
+Noon Egypt,HADEER83,200-299,2,2.4
+Noon Egypt,TG44,200-299,2,2.4
+Noon Egypt,ESRA85,200-299,2,2.4
+Noon Egypt,AMIRA81,200-299,2,2.4
+Noon Egypt,HH4,200-299,2,2.4
+Noon Egypt,TG17,200-299,2,2.4
+Noon Egypt,GO58,200-299,2,2.4
+Noon Egypt,BATOOTA50,200-299,2,2.4
+Noon Egypt,GO67,200-299,2,2.4
+Noon Egypt,BERO3,200-299,2,2.4
+Noon Egypt,CAN28,200-299,2,2.4
+Noon Egypt,AMIRA88,200-299,2,2.4
+Noon Egypt,CAN22,200-299,2,2.4
+Noon Egypt,JOLIE80,100-199,3,2.1
+Noon Egypt,HH3,100-199,3,2.1
+Noon Egypt,ENGY9,100-199,3,2.1
+Noon Egypt,TAWFER73,100-199,3,2.1
+Noon Egypt,TG36,100-199,3,2.1
+Noon Egypt,ESRA83,100-199,3,2.1
+Noon Egypt,WAFAR9,100-199,3,2.1
+Noon Egypt,TG35,100-199,3,2.1
+Noon Egypt,TAWFER84,100-199,3,2.1
+Noon Egypt,JOLIE88,100-199,3,2.1
+Noon Egypt,ENGY6,100-199,3,2.1
+Noon Egypt,ENGY5,100-199,3,2.1
+Noon Egypt,TG47,100-199,3,2.1
+Noon Egypt,CAN24,100-199,3,2.1
+Noon Egypt,ESRA85,100-199,3,2.1
+Noon Egypt,CAN28,100-199,3,2.1
+Noon Egypt,LIKE20,100-199,3,2.1
+Noon Egypt,ENGY3,300-399,1,2
+Noon Egypt,CAN25,300-399,1,2
+Noon Egypt,TG34,300-399,1,2
+Noon Egypt,HOOR87,300-399,1,2
+Noon Egypt,SAV42,300-399,1,2
+Noon Egypt,SAV41,300-399,1,2
+Noon Egypt,DINA84,300-399,1,2
+Noon Egypt,TG2,300-399,1,2
+Noon Egypt,HADEER80,300-399,1,2
+Noon Egypt,TAWFER40,300-399,1,2
+Noon Egypt,BATOOTA82,300-399,1,2
+Noon Egypt,LOCA81,300-399,1,2
+Noon Egypt,ENGY8,300-399,1,2
+Noon Egypt,TAWFER35,300-399,1,2
+Noon Egypt,FAV56,300-399,1,2
+Noon Egypt,GO90,300-399,1,2
+Noon Egypt,WAFAR30,300-399,1,2
+Noon Egypt,ESRA83,300-399,1,2
+Noon Egypt,BATOOTA80,300-399,1,2
+Noon Egypt,AMIRA80,300-399,1,2
+Noon Egypt,BERO3,300-399,1,2
+Noon Egypt,CODY15,300-399,1,2
+Noon Egypt,TG41,300-399,1,2
+Noon Egypt,CODY19,300-399,1,2
+Noon Egypt,CAN50,300-399,1,2
+Noon Egypt,CAN22,300-399,1,2
+Noon Egypt,TG4,300-399,1,2
+Noon Egypt,TG6,300-399,1,2
+Noon Egypt,AMIRA85,300-399,1,2
+Noon Egypt,WAFAR7,300-399,1,2
+Noon Egypt,CASH36,300-399,1,2
+Noon Egypt,ENGY4,300-399,1,2
+Noon Egypt,DINA81,300-399,1,2
+Noon Egypt,CODY2,300-399,1,2
+Noon Egypt,WAFAR9,300-399,1,2
+Noon Egypt,CAN37,300-399,1,2
+Noon Egypt,LIKE40,300-399,1,2
+Noon Egypt,FRI50,300-399,1,2
+Noon Egypt,NADIA1,300-399,1,2
+Noon Egypt,YARA85,300-399,1,2
+Noon Egypt,CODY18,300-399,1,2
+Noon Egypt,SAVER14,300-399,1,2
+Noon Egypt,CAN44,300-399,1,2
+Noon Egypt,ENJOY60,300-399,1,2
+Noon Egypt,YN69,300-399,1,2
+Noon Egypt,TG99,300-399,1,2
+Noon Egypt,CASH37,300-399,1,2
+Noon Egypt,CAN34,300-399,1,2
+Noon Egypt,CASH38,300-399,1,2
+Noon Egypt,HH4,300-399,1,2
+Noon Egypt,JOLIE83,300-399,1,2
+Noon Egypt,GO66,300-399,1,2
+Noon Egypt,CAN28,300-399,1,2
+Noon Egypt,CODY87,300-399,1,2
+Noon Egypt,SAVER12,300-399,1,2
+Noon Egypt,ENGY10,300-399,1,2
+Noon Egypt,TG69,300-399,1,2
+Noon Egypt,TG47,300-399,1,2
+Noon Egypt,TG53,300-399,1,2
+Noon Egypt,TG3,300-399,1,2
+Noon Egypt,JOLIE85,300-399,1,2
+Noon Egypt,CODY20,300-399,1,2
+Noon Egypt,ENJOY50,300-399,1,2
+Noon Egypt,CAN33,300-399,1,2
+Noon Egypt,WAFAR11,300-399,1,2
+Noon Egypt,BERO5,300-399,1,2
+Noon Egypt,JOLIE82,300-399,1,2
+Noon Egypt,HAJAR84,300-399,1,2
+Noon Egypt,WINTER58,300-399,1,2
+Noon Egypt,YN68,300-399,1,2
+Noon Egypt,LIKE52,300-399,1,2
+Noon Egypt,SAVER15,300-399,1,2
+Noon Egypt,WAF8,300-399,1,2
+Noon Egypt,NADIA80,300-399,1,2
+Noon Egypt,SAVER23,300-399,1,2
+Noon Egypt,WAFAR21,300-399,1,2
+Noon Egypt,SAV37,300-399,1,2
+Noon Egypt,DINA88,300-399,1,2
+Noon Egypt,HADEER84,300-399,1,2
+Noon Egypt,HAJAR83,300-399,1,2
+Noon Egypt,ESRA85,300-399,1,2
+Noon Egypt,WAFAR31,300-399,1,2
+Noon Egypt,BATOOTA50,300-399,1,2
+Noon Egypt,LOCA88,100-199,2,1.4
+Noon Egypt,TAWFER83,100-199,2,1.4
+Noon Egypt,SAVER23,100-199,2,1.4
+Noon Egypt,CASH38,100-199,2,1.4
+Noon Egypt,BERO2,100-199,2,1.4
+Noon Egypt,HOOR81,100-199,2,1.4
+Noon Egypt,TG45,100-199,2,1.4
+Noon Egypt,WAF8,100-199,2,1.4
+Noon Egypt,HH5,100-199,2,1.4
+Noon Egypt,LIKE52,100-199,2,1.4
+Noon Egypt,FRI44,100-199,2,1.4
+Noon Egypt,WAFAR16,100-199,2,1.4
+Noon Egypt,NADIA1,100-199,2,1.4
+Noon Egypt,ESRA82,100-199,2,1.4
+Noon Egypt,ENGY7,100-199,2,1.4
+Noon Egypt,TG73,100-199,2,1.4
+Noon Egypt,SAV41,100-199,2,1.4
+Noon Egypt,CODY3,100-199,2,1.4
+Noon Egypt,HAJAR88,100-199,2,1.4
+Noon Egypt,JOLIE81,100-199,2,1.4
+Noon Egypt,TAWFER88,100-199,2,1.4
+Noon Egypt,HOOR88,100-199,2,1.4
+Noon Egypt,SAVER22,100-199,2,1.4
+Noon Egypt,LIKE42,100-199,2,1.4
+Noon Egypt,LIKE30,100-199,2,1.4
+Noon Egypt,GO70,100-199,2,1.4
+Noon Egypt,CAN43,100-199,2,1.4
+Noon Egypt,JOLIE85,100-199,2,1.4
+Noon Egypt,BOSS50,100-199,2,1.4
+Noon Egypt,TG48,100-199,2,1.4
+Noon Egypt,RANEEM,200-299,1,1.2
+Noon Egypt,ENJOY50,200-299,1,1.2
+Noon Egypt,BATOOTA80,200-299,1,1.2
+Noon Egypt,WAFAR25,200-299,1,1.2
+Noon Egypt,GG7,200-299,1,1.2
+Noon Egypt,LIKE40,200-299,1,1.2
+Noon Egypt,CODY22,200-299,1,1.2
+Noon Egypt,TG7,200-299,1,1.2
+Noon Egypt,AMIRA82,200-299,1,1.2
+Noon Egypt,JOLIE81,200-299,1,1.2
+Noon Egypt,CAN45,200-299,1,1.2
+Noon Egypt,GG10,200-299,1,1.2
+Noon Egypt,TG79,200-299,1,1.2
+Noon Egypt,GG2,200-299,1,1.2
+Noon Egypt,WAF9,200-299,1,1.2
+Noon Egypt,TAWFER70,200-299,1,1.2
+Noon Egypt,GO94,200-299,1,1.2
+Noon Egypt,TAWFER61,200-299,1,1.2
+Noon Egypt,HH9,200-299,1,1.2
+Noon Egypt,ENJOY53,200-299,1,1.2
+Noon Egypt,WAFAR34,200-299,1,1.2
+Noon Egypt,TG46,200-299,1,1.2
+Noon Egypt,GO93,200-299,1,1.2
+Noon Egypt,TG100,200-299,1,1.2
+Noon Egypt,DINA84,200-299,1,1.2
+Noon Egypt,ENGY5,200-299,1,1.2
+Noon Egypt,CASH34,200-299,1,1.2
+Noon Egypt,CODY19,200-299,1,1.2
+Noon Egypt,NADIA50,200-299,1,1.2
+Noon Egypt,GG8,200-299,1,1.2
+Noon Egypt,JOLIE87,200-299,1,1.2
+Noon Egypt,BOSS50,200-299,1,1.2
+Noon Egypt,SAV40,200-299,1,1.2
+Noon Egypt,FATMA50,200-299,1,1.2
+Noon Egypt,CASH44,200-299,1,1.2
+Noon Egypt,CAN40,200-299,1,1.2
+Noon Egypt,TG63,200-299,1,1.2
+Noon Egypt,TAWFER52,200-299,1,1.2
+Noon Egypt,CAN33,200-299,1,1.2
+Noon Egypt,WAFAR9,200-299,1,1.2
+Noon Egypt,TAWFER88,200-299,1,1.2
+Noon Egypt,FRI51,200-299,1,1.2
+Noon Egypt,CAN30,200-299,1,1.2
+Noon Egypt,BATOOTA82,200-299,1,1.2
+Noon Egypt,TG69,200-299,1,1.2
+Noon Egypt,DINA82,200-299,1,1.2
+Noon Egypt,LIKE54,200-299,1,1.2
+Noon Egypt,GG4,200-299,1,1.2
+Noon Egypt,LIKE45,200-299,1,1.2
+Noon Egypt,LOCA88,200-299,1,1.2
+Noon Egypt,AMIRA87,200-299,1,1.2
+Noon Egypt,FATMA83,200-299,1,1.2
+Noon Egypt,CAN32,200-299,1,1.2
+Noon Egypt,BATOOTA85,200-299,1,1.2
+Noon Egypt,BATOOTA81,200-299,1,1.2
+Noon Egypt,WAFAR29,200-299,1,1.2
+Noon Egypt,TG54,200-299,1,1.2
+Noon Egypt,ENGY8,200-299,1,1.2
+Noon Egypt,HALEEM10,200-299,1,1.2
+Noon Egypt,DINA80,200-299,1,1.2
+Noon Egypt,DINA83,200-299,1,1.2
+Noon Egypt,HADER24,200-299,1,1.2
+Noon Egypt,SAV35,200-299,1,1.2
+Noon Egypt,TAWFER69,200-299,1,1.2
+Noon Egypt,ENJOY55,200-299,1,1.2
+Noon Egypt,HADEER81,200-299,1,1.2
+Noon Egypt,TG5,200-299,1,1.2
+Noon Egypt,TG47,200-299,1,1.2
+Noon Egypt,TG19,200-299,1,1.2
+Noon Egypt,TG98,200-299,1,1.2
+Noon Egypt,LIKE20,200-299,1,1.2
+Noon Egypt,SAVER20,200-299,1,1.2
+Noon Egypt,ENJOY64,200-299,1,1.2
+Noon Egypt,TG55,200-299,1,1.2
+Noon Egypt,LIKE43,200-299,1,1.2
+Noon Egypt,BATOOTA87,200-299,1,1.2
+Noon Egypt,HOOR86,200-299,1,1.2
+Noon Egypt,CAN26,200-299,1,1.2
+Noon Egypt,CAN46,200-299,1,1.2
+Noon Egypt,CASH33,200-299,1,1.2
+Noon Egypt,FRI50,200-299,1,1.2
+Noon Egypt,SAV32,200-299,1,1.2
+Noon Egypt,ESRA88,200-299,1,1.2
+Noon Egypt,LIKE24,200-299,1,1.2
+Noon Egypt,CAN42,200-299,1,1.2
+Noon Egypt,GO90,200-299,1,1.2
+Noon Egypt,YARA81,200-299,1,1.2
+Noon Egypt,TG15,200-299,1,1.2
+Noon Egypt,DINA87,200-299,1,1.2
+Noon Egypt,CODY86,200-299,1,1.2
+Noon Egypt,TG63,100-199,1,0.7
+Noon Egypt,HAJAR83,100-199,1,0.7
+Noon Egypt,JOLIE84,100-199,1,0.7
+Noon Egypt,LIKE46,100-199,1,0.7
+Noon Egypt,GO65,100-199,1,0.7
+Noon Egypt,SAFA50,100-199,1,0.7
+Noon Egypt,HOOR85,100-199,1,0.7
+Noon Egypt,HADER24,100-199,1,0.7
+Noon Egypt,SOKKAR10,100-199,1,0.7
+Noon Egypt,WINTER58,100-199,1,0.7
+Noon Egypt,TG66,100-199,1,0.7
+Noon Egypt,ENJOY55,100-199,1,0.7
+Noon Egypt,TAWFER35,100-199,1,0.7
+Noon Egypt,GG3,100-199,1,0.7
+Noon Egypt,TG53,100-199,1,0.7
+Noon Egypt,SAVER25,100-199,1,0.7
+Noon Egypt,YASMEEN50,100-199,1,0.7
+Noon Egypt,ENJOY54,100-199,1,0.7
+Noon Egypt,TG89,100-199,1,0.7
+Noon Egypt,TG100,100-199,1,0.7
+Noon Egypt,ENGY4,100-199,1,0.7
+Noon Egypt,HH10,100-199,1,0.7
+Noon Egypt,HADEER81,100-199,1,0.7
+Noon Egypt,WAF7,100-199,1,0.7
+Noon Egypt,YARA86,100-199,1,0.7
+Noon Egypt,BERO3,100-199,1,0.7
+Noon Egypt,DINA81,100-199,1,0.7
+Noon Egypt,ENJOY62,100-199,1,0.7
+Noon Egypt,CAN22,100-199,1,0.7
+Noon Egypt,PLUS88,100-199,1,0.7
+Noon Egypt,CAN31,100-199,1,0.7
+Noon Egypt,BERO5,100-199,1,0.7
+Noon Egypt,TG55,100-199,1,0.7
+Noon Egypt,FATMA88,100-199,1,0.7
+Noon Egypt,GO93,100-199,1,0.7
+Noon Egypt,DINA84,100-199,1,0.7
+Noon Egypt,HOOR83,100-199,1,0.7
+Noon Egypt,ESRA87,100-199,1,0.7
+Noon Egypt,WAF3,100-199,1,0.7
+Noon Egypt,TG34,100-199,1,0.7
+Noon Egypt,CODY19,100-199,1,0.7
+Noon Egypt,GO92,100-199,1,0.7
+Noon Egypt,DINA85,100-199,1,0.7
+Noon Egypt,TG24,100-199,1,0.7
+Noon Egypt,GG9,100-199,1,0.7
+Noon Egypt,TG26,100-199,1,0.7
+Noon Egypt,TG6,100-199,1,0.7
+Noon Egypt,TG23,100-199,1,0.7
+Noon Egypt,TG69,100-199,1,0.7
+Noon Egypt,AMAL50,100-199,1,0.7
+Noon Egypt,ENJOY50,100-199,1,0.7
+Noon Egypt,AMIRA81,100-199,1,0.7
+Noon Egypt,ESRA84,100-199,1,0.7
+Noon Egypt,WAFAR10,100-199,1,0.7
+Noon Egypt,JOLIE86,100-199,1,0.7
+Noon Egypt,TG40,100-199,1,0.7
+Noon Egypt,AMIRA82,100-199,1,0.7
+Noon Egypt,GO67,100-199,1,0.7
+Noon Egypt,GO90,100-199,1,0.7
+Noon Egypt,GO91,100-199,1,0.7
+Noon Egypt,NADIA80,100-199,1,0.7
+Noon Egypt,TG13,100-199,1,0.7
+Noon Egypt,HAJAR80,100-199,1,0.7
+Noon Egypt,DINA88,100-199,1,0.7
+Noon Egypt,CODY18,100-199,1,0.7
+Noon Egypt,YARA80,100-199,1,0.7
+Noon Egypt,TAWFER60,100-199,1,0.7
+Noon Egypt,AMIRA88,100-199,1,0.7
+Noon Egypt,LIKE22,100-199,1,0.7
+Noon Egypt,YARA82,100-199,1,0.7
+Noon Egypt,HH7,100-199,1,0.7
+Noon Egypt,ENJOY52,100-199,1,0.7
+Noon Egypt,CAN47,100-199,1,0.7
+Noon Egypt,HAJAR81,100-199,1,0.7
+Noon Egypt,GG4,100-199,1,0.7
+Noon Egypt,HOOR87,100-199,1,0.7
+Noon Egypt,FRI50,100-199,1,0.7
+Noon Egypt,CAN26,100-199,1,0.7
+Noon Egypt,HAJAR82,100-199,1,0.7
+Noon Egypt,TAWFER72,100-199,1,0.7
+Noon Egypt,SAV39,100-199,1,0.7
+Noon Egypt,HOOR82,100-199,1,0.7
+Noon Egypt,TG28,100-199,1,0.7
+Noon Egypt,LIKE50,100-199,1,0.7
+Noon Egypt,GG6,100-199,1,0.7
+Noon Egypt,LIKE21,100-199,1,0.7
+Noon Egypt,TG18,100-199,1,0.7
+Noon Egypt,ENGY8,100-199,1,0.7
+Noon Egypt,LIKE40,100-199,1,0.7
+Noon Egypt,TAWFER40,100-199,1,0.7
+Noon Egypt,GO96,100-199,1,0.7
+Noon Egypt,TG15,100-199,1,0.7
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

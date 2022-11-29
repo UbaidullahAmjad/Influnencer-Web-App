@@ -1,0 +1,21 @@
+ID,Publisher,Link,"Direct WhatsApp","Group WhatsApp",Country,"Bank City","Bank Name",Beneficiary,"Account Number","IBAN Number",Notes,Amount,"Pending Amount",Total,Quality,"Payment Currency",Transfer,"POP Invoice",MM
+123,Zoom,"Arjeet talal",abc,pqr,Amarica,KSA,ABL,arjeet,12346qert,34567890iuytr4,sa000000000987654,$2.728.00,"$0.00 ","$234.00 ",sdsd,usd,1,ewef,Approved
+2,goldenstar_gold,"Lamla hamood",def,stu,iraq,KSA,UBL,lamla,654323wfhvxds,2345678iuytre,sa000000005678,$1.934.00,"$0.00 ","$52,345.00 ",Asdefa,usd,0,afERF,Approved
+123,Zoom,"Abda Naser",ghi,vwx,iran,KSA,HBL,abda,3534fatrjhCB,6543wewrty,sa0009876,"$34 ","$0.00 ","$46.00 ",Sdef,usd,confirm,ADG4t,Approved
+4,All_shoping,"zaraa Abdullah",jkl,yza,afghanistan,KSA,ALFALAH,zara,sfr5ter236686,87654wertyu,sa234567,"$75.00 ","$0.00 ","$245.00 ",asfef,usd,pending,dg4rg,Approved
+65,style_lumanh,"halma ibrahim",mno,yzb,somalia,KSA,MEZAN,halma,3547q54tfdfhtayr,876543edfgv,sa00000987654,"$78.00 ","$0.00 ","$124.00 ",Sdfef,usd,pending,aeg4t,Approved
+123,Zoom,"Arjeet talal",abc,pqr,Amarica,KSA,ABL,arjeet,12346qert,34567890iuytr4,sa000000000987654,$2.728.00,"$0.00 ","$234.00 ",sdsd,usd,,ewef,Approved
+129,goldenstar_gold,"Lamla hamood",def,stu,iraq,KSA,UBL,lamla,654323wfhvxds,2345678iuytre,sa000000005678,$1.934.00,"$0.00 ","$52,345.00 ",Asdefa,usd,confirm,afERF,Approved
+123,Zoom,"Abda Naser",ghi,vwx,iran,KSA,HBL,abda,3534fatrjhCB,6543wewrty,sa0009876,"$34 ","$0.00 ","$46.00 ",Sdef,usd,confirm,ADG4t,Approved
+4,All_shoping,"zaraa Abdullah",jkl,yza,afghanistan,KSA,ALFALAH,zara,sfr5ter236686,87654wertyu,sa234567,"$75.00 ","$0.00 ","$245.00 ",asfef,usd,pending,dg4rg,Approved
+65,style_lumanh,"halma ibrahim",mno,yzb,somalia,KSA,MEZAN,halma,3547q54tfdfhtayr,876543edfgv,sa00000987654,"$78.00 ","$0.00 ","$124.00 ",Sdfef,usd,pending,aeg4t,Approved
+123,Zoom,"Arjeet talal",abc,pqr,Amarica,KSA,ABL,arjeet,12346qert,34567890iuytr4,sa000000000987654,$2.728.00,"$0.00 ","$234.00 ",sdsd,usd,,ewef,Approved
+2,goldenstar_gold,"Lamla hamood",def,stu,iraq,KSA,UBL,lamla,654323wfhvxds,2345678iuytre,sa000000005678,$1.934.00,"$0.00 ","$52,345.00 ",Asdefa,usd,,afERF,Approved
+123,Zoom,"Abda Naser",ghi,vwx,iran,KSA,HBL,abda,3534fatrjhCB,6543wewrty,sa0009876,"$34 ","$0.00 ","$46.00 ",Sdef,usd,confirm,ADG4t,Approved
+4,All_shoping,"zaraa Abdullah",jkl,yza,afghanistan,KSA,ALFALAH,zara,sfr5ter236686,87654wertyu,sa234567,"$75.00 ","$0.00 ","$245.00 ",asfef,usd,pending,dg4rg,Approved
+65,style_lumanh,"halma ibrahim",mno,yzb,somalia,KSA,MEZAN,halma,3547q54tfdfhtayr,876543edfgv,sa00000987654,"$78.00 ","$0.00 ","$124.00 ",Sdfef,usd,pending,aeg4t,Approved
+123,Zoom,"Arjeet talal",abc,pqr,Amarica,KSA,ABL,arjeet,12346qert,34567890iuytr4,sa000000000987654,$2.728.00,"$0.00 ","$234.00 ",sdsd,usd,,ewef,Approved
+129,goldenstar_gold,"Lamla hamood",def,stu,iraq,KSA,UBL,lamla,654323wfhvxds,2345678iuytre,sa000000005678,$1.934.00,"$0.00 ","$52,345.00 ",Asdefa,usd,confirm,afERF,Approved
+123,Zoom,"Abda Naser",ghi,vwx,iran,KSA,HBL,abda,3534fatrjhCB,6543wewrty,sa0009876,"$34 ","$0.00 ","$46.00 ",Sdef,usd,confirm,ADG4t,Approved
+4,All_shoping,"zaraa Abdullah",jkl,yza,afghanistan,KSA,ALFALAH,zara,sfr5ter236686,87654wertyu,sa234567,"$75.00 ","$0.00 ","$245.00 ",asfef,usd,pending,dg4rg,Approved
+65,style_lumanh,"halma ibrahim",mno,yzb,somalia,KSA,MEZAN,halma,3547q54tfdfhtayr,876543edfgv,sa00000987654,"$78.00 ","$0.00 ","$124.00 ",Sdfef,usd,pending,aeg4t,Approved
