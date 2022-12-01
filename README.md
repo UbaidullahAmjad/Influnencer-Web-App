@@ -1,80 +1,40 @@
-Laravel 8 version - Cuba Theme Support 
+# Introduction
+This is a website that will manage all the records of influencers, brands, coupons, and the association between them. This system has to track which influencer is associated with which brand and also the records of coupon which coupon is assigned by which brand to that particular influencer.
+# Country
+Gulf Countries
+# Industry
+Showbiz
+# Completion Time
+6 months
+# Team Size
+5
+# Tech Stack
+- Laravel
+- Selenium
+- Jmeter
+- Adobe XD  
+# Target Devices
+- Website
+- Tablets
+- Mobiles
+- Laptops
+# Process
+So our team started to work on it from scratch as we are following all the standards related to Software Development. We have dedicated teams that will ensure that all the phases of the Software Development Life Cycle will follow up to mark and in a standard way.
+We have dedicated teams for each separate phase which include Requirement Engineers, Software Designers, Developers, and Quality Assurance Engineers who will make sure that each phase of Software and each requirement of Stakeholder will be validated and provide a quality product through our multi-layer Quality Assurance process.
+This ensures on-time and quality deliverables to our clients by meeting and implementing their every business requirement.
+# Modules
+Following are the functionalities which an admin can perform on this website.
+- View Stats
+- Brand Management
+- Coupon Management
+- Influencers Management
+- Association
+- Upload Gallery Images
+- Manage Payment Record
+- Create Data Backup
+- Upload bulk Data
+- Import CSV data
+- Export CSV data
+- Apply filters 
 
-1) Laravel Jetstream.  ( https://jetstream.laravel.com/1.x/introduction.html#laravel-jetstream )
-2) Livewire + Blade   ( https://jetstream.laravel.com/1.x/introduction.html#livewire-blade) or without Jetstream ( https://laravel-livewire.com/docs/2.x/quickstart)
-3) Inertia.js + Vue   ( https://jetstream.laravel.com/1.x/introduction.html#livewire-blade) or without Jetstream ( https://inertiajs.com/ )
-4) ui:auth
-   ui vue
-   ui react
 
-
-    //  Language use a middleware
-    * web.php  - Route::get('lang/{locale}', function ($locale) {
-    * http/kernel.php
-   		protected $middlewareGroups = [
-        	'web' => [
-   				\App\Http\Middleware\Localization::class,
-   			],
-
-
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
-
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
